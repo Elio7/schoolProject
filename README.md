@@ -1,1 +1,1 @@
-# schoolProject
+The below code is used to connect my gui to my database by passing values kept in the gui, i am having some trouble retriving my JTextfield value and passing it to my SQL Database in line 583 in the "txtDeptCodeKeyPressed". Note: Some of the code is auto generated. I'm using NetBeans IDE
